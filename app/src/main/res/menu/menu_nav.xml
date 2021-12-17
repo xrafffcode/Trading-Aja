@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home"
+        android:icon="@drawable/dashboard"/>
+
+    <item
+        android:id="@+id/menu_schedule"
+        android:title="Schedule"
+        android:icon="@drawable/cgart"/>
+    <item
+        android:id="@+id/menu_chat"
+        android:title="Chat"
+        android:icon="@drawable/time"/>
+
+    <item
+        android:id="@+id/menu_user"
+        android:title="Akun"
+        android:icon="@drawable/user"/>
+</menu>
